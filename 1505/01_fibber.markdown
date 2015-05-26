@@ -79,7 +79,7 @@
 * Notes: There are 3 methods to calculate the fibonacci sequence, plus a set of tests.
 
 ### Jerrod Junker
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/Unsafepond/Fibber
 * Notes:
 
 ### Jason Wright
