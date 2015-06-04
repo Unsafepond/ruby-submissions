@@ -655,7 +655,7 @@
 
 ### Jerrod Junker
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/Unsafepond/Enigma-refactor
 * Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
