@@ -203,7 +203,7 @@
 
 ### David Stinnette
 
-* GitHub URL: https://github.com/dastinnette/LinkedLists
+* GitHub URL:
 
 #### Notes
 
@@ -245,7 +245,7 @@
 
 ### Jerrod Paul Junker
 
-* GitHub URL:
+* GitHub URL: https://github.com/Unsafepond/Linked-list
 
 #### Notes
 
